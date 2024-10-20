@@ -1,6 +1,6 @@
 # Sistema de Sorteio de Carro e Título
 
-![Descrição da Imagem](Sem-título.png)
+![Descrição da Imagem](SemTítulo.png)
 
 ## Descrição
 
